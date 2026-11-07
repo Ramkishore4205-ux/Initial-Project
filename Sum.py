@@ -31,3 +31,4 @@ if __name__ == "__main__":
     print("\nDataFrame:")
     print(df)
     print(f"Total Value (pandas sum): {sum_dataframe_column(df, 'Value')}")
+
